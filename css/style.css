@@ -1,0 +1,78 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nAll
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+}
+.nMain
+{
+    width: 1000px;
+    min-height: 600px;
+    background-color: #222;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.nHeader
+{
+    width: 980px;
+    height: 70px;
+    background: violet;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nNavigation
+{
+    width: 980px;
+    height: 50px;
+    background: orangered;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.nMiddle
+{
+    width: 1000px;
+    height: 350px;
+}
+.nSidebar
+{
+    width: 180px;
+    height: 345px;
+    background: rgb(86, 207, 86);
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+.nContent
+{
+    width:780px;
+    height: 345px;
+    background: rgb(34, 140, 172);
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+
+}
+.nFooter
+{
+    width: 980px;
+    height: 85px;
+    background: violet;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
